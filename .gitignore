@@ -1,0 +1,10 @@
+echo ".venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.png
+.env
+.DS_Store
+.ipynb_checkpoints/
+" > .gitignore
