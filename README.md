@@ -14,8 +14,7 @@
 ### 🐧 In VS Code Termial, with python installed
 
 ```bash
-git clone https://github.com/subhayu99/finadict.git
-cd finadict
+git clone https://github.com/code5ai/FinaDict.git
 pip3 install -r requirements.txt
 streamlit run app.py
 ````
